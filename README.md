@@ -1,2 +1,1 @@
-# SAP-MCP-Skills
-SAP MCP Skills
+Lanside: SAP TMS
