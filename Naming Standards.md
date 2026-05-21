@@ -13,7 +13,7 @@ Use this skill to correctly name any SAP custom development object. All custom o
 
 | Module | Prefix |
 |---|---|
-| Cross-Module | `CMN` |
+| Cross-Module | `CMNN` |
 | Accounts to Report | `A2R` |
 | Procure to Pay | `P2P` |
 | Order to Cash | `O2C` |
